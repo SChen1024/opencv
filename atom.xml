@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>OpenCV Blog</title>
   
-  <subtitle>深入opencv</subtitle>
-  <link href="/atom.xml" rel="self"/>
+  <subtitle>深入学习与理解 opencv</subtitle>
+  <link href="/opencv/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://schen1024.github.io/opencv/"/>
   <updated>2019-12-20T08:08:35.546Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://schen1024.github.io/opencv/</id>
   
   <author>
     <name>SChen00</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/12/20/hello-world/"/>
-    <id>http://yoursite.com/2019/12/20/hello-world/</id>
+    <link href="https://schen1024.github.io/opencv/2019/12/20/hello-world/"/>
+    <id>https://schen1024.github.io/opencv/2019/12/20/hello-world/</id>
     <published>2019-12-20T08:08:35.546Z</published>
     <updated>2019-12-20T08:08:35.546Z</updated>
     
@@ -40,10 +40,10 @@
   
   <entry>
     <title>OpenCV0-项目启程</title>
-    <link href="http://yoursite.com/2019/12/20/opencv-%E9%A1%B9%E7%9B%AE%E5%90%AF%E7%A8%8B/"/>
-    <id>http://yoursite.com/2019/12/20/opencv-%E9%A1%B9%E7%9B%AE%E5%90%AF%E7%A8%8B/</id>
+    <link href="https://schen1024.github.io/opencv/2019/12/20/opencv-%E9%A1%B9%E7%9B%AE%E5%90%AF%E7%A8%8B/"/>
+    <id>https://schen1024.github.io/opencv/2019/12/20/opencv-%E9%A1%B9%E7%9B%AE%E5%90%AF%E7%A8%8B/</id>
     <published>2019-12-20T07:11:40.000Z</published>
-    <updated>2019-12-20T10:48:42.978Z</updated>
+    <updated>2019-12-20T13:01:56.999Z</updated>
     
     <content type="html"><![CDATA[<p>每当自己面临困难的时候, 自己总会给自己找很多事来做, 显得自己做的很好一样, 总是给自己一个很大的期望,认为自己能够做好, 这次的我在胡思乱想之际, 开始了两个项目,  其中一个就是现在正在规划的 opencv 大项目</p><h2 id="前因后果"><a href="#前因后果" class="headerlink" title="前因后果"></a>前因后果</h2><p>自己开始使用opencv 也有一年半的时间了, 从最开始的实现起来很简单, 到后面有过一定的深入理解, 但是在事实上, 自己做的远远不够, 甚至在很多时候, 仅仅是调用api 而已, 之前参与过 一个 <a href="https://opencv.apachecn.org/#/" target="_blank" rel="noopener" title="opencv4.0中文文档">opencv4.0中文文档</a> 的中文文档的翻译项目, 但是他们只是简单的做下去,并没有做的很深, 而且他们由于一些原因似乎出现了问题.<br>所以, 这边 之后可能考虑 不仅是翻译原本的教程, 同时发布相关的源码解析过程, 做单独的 opencv 各个模块的解析过程</p><h2 id="总体构成"><a href="#总体构成" class="headerlink" title="总体构成"></a>总体构成</h2><p>介绍</p><ol><li>opencv- blog 个人研究 opencv 的相关内容介绍, 使用简单的 hexo 搭建的blog 项目</li><li>source - opencv 的源码 根据当前时间 2019-12-20 使用较新 的版本 opencv-4.1.2 版本源码, </li><li>soft - 自己实现的基于 QT 做的界面的 opencv 的一个基础使用库, 用于实现opencv 的算法功能, 实现的过程也会发布到相应的 blog 内容中</li></ol><h2 id="其他"><a href="#其他" class="headerlink" title="其他"></a>其他</h2>]]></content>
     
@@ -58,10 +58,10 @@
     </summary>
     
     
-      <category term="OpenCV" scheme="http://yoursite.com/categories/OpenCV/"/>
+      <category term="OpenCV" scheme="https://schen1024.github.io/opencv/categories/OpenCV/"/>
     
     
-      <category term="OpenCV" scheme="http://yoursite.com/tags/OpenCV/"/>
+      <category term="OpenCV" scheme="https://schen1024.github.io/opencv/tags/OpenCV/"/>
     
   </entry>
   
